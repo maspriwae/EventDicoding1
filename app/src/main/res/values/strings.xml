@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">EventDicoding</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="title_upcoming">Upcoming</string>
+    <string name="title_finished">Finished</string>
+    <string name="header_upcoming">Upcoming Events</string>
+    <string name="header_finished">Finished Events</string>
+    <string name="searchbar_default">Cari Event</string>
+    <string name="quotaLeft">0</string>
+    <string name="recommendation_event_for_you">Recommendation Event for you</string>
+    <string name="button_link">Klik untuk Registrasi</string>
+    <string name="sisa_kuota">Sisa kuota:</string>
+    <string name="descr">description</string>
+    <string name="value">value</string>
+    <string name="lokasi">Lokasi:</string>
+    <string name="penyelenggara">Penyelenggara:</string>
+    <string name="kategori">Kategori:</string>
+    <string name="name">Name</string>
+    <string name="waktu_acara">Waktu acara:</string>
+    <string name="upcoming_events">Upcoming Events</string>
+    <string name="finished_events">Finished Events</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="upcoming_fragment">This is Upcoming Event Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="finished_fragment">This is Finished Event Fragment</string>
+</resources>
